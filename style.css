@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.cove {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.box {
+  background-image: url("../pic/tea.jpg");
+  background-size: cover;
+  background-color: #f0fafc;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 200px;
+  background-position: top;
+}
+

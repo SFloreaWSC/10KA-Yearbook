@@ -1,0 +1,61 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.box {
+  background-image: url("../pic/amo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #f0fafc;
+  text-align: center;
+  padding-top: 1px; 
+  padding-bottom: 200px;
+  background-position: top;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 80px;
+}
+
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 70px;
+  margin-bottom: 70px;
+  margin-top: 70px;
+  text-align: center;
+}
+
+.holly {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  background-image: url(../pic/wall.jpg);
+  padding-bottom: 100px;
+  padding-top: 100px;
+  color: #f0fafc;
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+img {
+  margin-left:6%;
+  margin-right:6%;
+}
+
+.peep {
+  text-align:center;
+}
+
+.pop {
+  text-align: center;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 17px;
+  margin-top: 10px;
+}
+
+
